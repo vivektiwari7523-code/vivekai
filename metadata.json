@@ -1,0 +1,6 @@
+{
+  "name": "VIVEK AI",
+  "description": "Intelligent personal assistant with voice synthesis, Hindi & English support, web search grounding, and Chrome browser action controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
